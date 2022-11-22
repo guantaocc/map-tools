@@ -13,7 +13,7 @@ export default {
     visible: {
       type: Boolean,
       default: true,
-    }, // 是否显示，默认 true
+    },
     zIndex: {
       type: Number,
     },
